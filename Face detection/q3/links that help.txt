@@ -1,0 +1,3 @@
+http://onionesquereality.wordpress.com/2009/02/11/face-recognition-using-eigenfaces-and-distance-classifiers-a-tutorial/
+http://www.youtube.com/watch?v=SaEmG4wcFfg
+http://www.cs.otago.ac.nz/cosc453/student_tutorials/principal_components.pdf
